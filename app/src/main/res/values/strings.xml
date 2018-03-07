@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StampLoginForm</string>
+    <string name="hintName">ユーザーネーム</string>
+    <string name="hintMailaddress">メールアドレス</string>
+    <string name="hintPassword"></string>
+    <string name="btnRegister">新規登録</string>
+    <string name="btnLogin">ログイン</string>
+    <string name="newRegister">新規登録</string>
+
+    <string name="loginFail">ログインに失敗しました</string>
+    <string name="textViewUsername">ユーザーネーム</string>
+    <string name="tVlogout">ログアウト</string>
+    <string name="switchQR">QR表示</string>
+    <string name="toAddShops">スタンプカードを追加する</string>
+    <string name="hint_enter_text_to_create_barcode">text empty</string>
+</resources>
